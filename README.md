@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-I am a university student passionate about programming and technology. For the last two years, I have been working on personal projects where I have gained skills in various technologies, with a focus on Java. My goal is to continue growing as a developer and contribute to innovative solutions.
+Hello! I am Exequiel Raineri, I am 23 years old and I am a Java Developer.
 
-Studying a University Programmer in Computer Science at UNSE (National University of Santiago del Estero). With certification in Web Development from CoderHouse in 2021.
+Currently, I am studying a University Programmer degree at the National University of Santiago del Estero, where I am acquiring fundamental knowledge and practical skills to stand out in the world of programming.
+
+In addition to my academic training, I am a passionate self-taught person and always look for ways to improve myself every day. I love keeping up with the latest trends and technologies in software development, and finding my true passion in the backend. I enjoy facing challenges that will allow me to improve my skills and contribute to the success of the projects in which I participate.
 
 ----------------------------------------------------------------
 
-Soy un estudiante universitario apasionado por la programación y la tecnología. Durante los últimos dos años, he estado trabajando en proyectos personales donde he adquirido habilidades en diversas tecnologías, con un enfoque en Java. Mi objetivo es seguir creciendo como desarrollador y contribuir a soluciones innovadoras.
+Hola! Soy Exequiel Raineri, tengo 23 años y soy Desarrollador Java.
 
-Cursando la carrera de Programador Universitario en Informática en la UNSE (Universidad Nacional de Santiago del Estero). Con certificación en Desarrollo Web de CoderHouse del 2021.
+Actualmente, estoy cursando la carrera de Programador Universitario en la Universidad Nacional de Santiago del Estero, donde estoy adquiriendo conocimientos fundamentales y habilidades prácticas para destacarme en el mundo de la programación.
+
+Además de mi formación académica, soy un autodidacta apasionado y siempre busco maneras de superarme día a día. Me encanta mantenerme al día con las últimas tendencias y tecnologías en el desarrollo de software, y encuentro mi verdadera pasión en el backend. Disfruto enfrentando desafíos que me permitan mejorar mis habilidades y contribuir al éxito de los proyectos en los que participo.
 
 https://exequielraineri.github.io/portafolio-web/
