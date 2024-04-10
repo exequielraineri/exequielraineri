@@ -14,4 +14,4 @@ Actualmente, estoy cursando la carrera de Programador Universitario en la Univer
 
 Además de mi formación académica, soy un autodidacta apasionado y siempre busco maneras de superarme día a día. Me encanta mantenerme al día con las últimas tendencias y tecnologías en el desarrollo de software, y encuentro mi verdadera pasión en el backend. Disfruto enfrentando desafíos que me permitan mejorar mis habilidades y contribuir al éxito de los proyectos en los que participo.
 
-https://exequielraineri.github.io/portafolio-web/
+https://exequielraineri.github.io/Portfolio/
