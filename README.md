@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I am Exequiel Raineri, I am 23 years old and I am a Java Developer and Full Stack (React Js).
+Hello! I am Exequiel Raineri, I am 24 years old and I am a Java Developer and Full Stack (React Js).
 
 Currently, I am studying a University Programmer degree at the National University of Santiago del Estero, where I am acquiring fundamental knowledge and practical skills to stand out in the world of programming.
 
@@ -8,7 +8,7 @@ In addition to my academic training, I am a passionate self-taught person and al
 
 ----------------------------------------------------------------
 
-Hola! Soy Exequiel Raineri, tengo 23 años y soy Desarrollador Java y tengo conocimiento en Full Stack con React Js.
+Hola! Soy Exequiel Raineri, tengo 24 años y soy Desarrollador Java y tengo conocimiento en Full Stack con React Js.
 
 Actualmente, estoy cursando la carrera de Programador Universitario en la Universidad Nacional de Santiago del Estero, donde estoy adquiriendo conocimientos fundamentales y habilidades prácticas para destacarme en el mundo de la programación.
 
