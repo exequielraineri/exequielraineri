@@ -1,17 +1,39 @@
-### Hi there 👋
+# Hola! Soy Exequiel Raineri 👋
 
-Hello! I am Exequiel Raineri, I am 24 years old and I am a Java Developer and Full Stack (React Js).
+## Sobre Mí
 
-Currently, I am studying a University Programmer degree at the National University of Santiago del Estero, where I am acquiring fundamental knowledge and practical skills to stand out in the world of programming.
+Hola! Soy Exequiel Raineri, tengo 24 años y me apasiona la tecnología.
+Soy estudiante avanzado de la carrera de Tec. Programador Universitario en la Universidad Nacional de Santiago del Estero. Además de mi formación universitaria, soy autodidacta y siempre busco maneras de superarme día a día. Me encanta mantenerme al día con las últimas tendencias y tecnologías en el desarrollo de software. Mi enfoque va más para la parte de Backend.
 
-In addition to my academic training, I am a passionate self-taught person and always look for ways to improve myself every day. I love keeping up with the latest trends and technologies in software development, and finding my true passion in the backend. I enjoy facing challenges that will allow me to improve my skills and contribute to the success of the projects in which I participate.
+Me encuentro en la búsqueda de nuevas oportunidades en este mundo IT.
 
-----------------------------------------------------------------
+## 🚀 Tecnologías y Herramientas
 
-Hola! Soy Exequiel Raineri, tengo 24 años y soy Desarrollador Java y tengo conocimiento en Full Stack con React Js.
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-Actualmente, estoy cursando la carrera de Programador Universitario en la Universidad Nacional de Santiago del Estero, donde estoy adquiriendo conocimientos fundamentales y habilidades prácticas para destacarme en el mundo de la programación.
+## 🌱 Actualmente Estoy Aprendiendo
 
-Además de mi formación académica, soy un autodidacta apasionado y siempre busco maneras de superarme día a día. Me encanta mantenerme al día con las últimas tendencias y tecnologías en el desarrollo de software, y encuentro mi verdadera pasión en el backend. Disfruto enfrentando desafíos que me permitan mejorar mis habilidades y contribuir al éxito de los proyectos en los que participo.
+- 📚 Avanzando en conocimientos de Java y Spring.
+- 🔄 Profundizando en microservicios.
+- 📨 Explorando herramientas de mensajería como RabbitMQ y Kafka.
 
-https://exeraineri.com
+## 📫 Cómo Contactarme
+
+- 📧 Email: [exeraineridev@gmal.com](mailto:exeraneridev@gmail.com)
+- 🌐 Web: [exeraineri.com](https://www.exeraineri.com)
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub de Exequiel Raineri](https://github-readme-stats.vercel.app/api?username=exequielraineri&show_icons=true&theme=radical)
+
+## 📌 Repositorios Destacados
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=exequielraineri&repo=Portfolio&theme=radical)](https://github.com/exequielraineri/Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=exequielraineri&repo=Inmobiliaria-Fontend&theme=radical)](https://github.com/exequielraineri/Inmobiliaria-Fontend)
+
+¡Gracias por visitar mi perfil! No dudes en contactarme para cualquier pregunta o oportunidad de colaboración.
