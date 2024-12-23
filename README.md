@@ -34,7 +34,8 @@ Me encuentro en la búsqueda de nuevas oportunidades en este mundo IT.
 ## 📌 Repositorios Destacados
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=exequielraineri&repo=Portfolio&theme=radical)](https://github.com/exequielraineri/Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=exequielraineri&repo=Inmobiliaria-Frontend&theme=radical)](https://github.com/exequielraineri/Inmobiliaria-Frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=exequielraineri&repo=real-state-noa-backend&theme=radical)](https://github.com/exequielraineri/real-state-noa-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=exequielraineri&repo=RealStateNOA-Frontend&theme=radical)](https://github.com/exequielraineri/RealStateNOA-Frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=exequielraineri&repo=RealStateNOA-Backend&theme=radical)](https://github.com/exequielraineri/RealStateNOA-Backend)
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme para cualquier pregunta o oportunidad de colaboración.
+
