@@ -33,27 +33,6 @@ Soy un desarrollador backend especializado en la creación de sistemas robustos 
 - 🐳 **DevOps:** Contenedorización de aplicaciones y despliegue eficiente mediante Docker.
 
 ---
-
-## 📌 Repositorios Destacados
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=exequielraineri&repo=Portfolio&theme=radical)](https://github.com/exequielraineri/Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=exequielraineri&repo=RealStateNOA-Frontend&theme=radical)](https://github.com/exequielraineri/RealStateNOA-Frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=exequielraineri&repo=RealStateNOA-Backend&theme=radical)](https://github.com/exequielraineri/RealStateNOA-Backend)
-
-
-</div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de Exequiel](https://github-readme-stats.vercel.app/api?username=exequielraineri&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=exequielraineri&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 📫 Conectemos
 
 * 🌐 **Sitio Web:** [exeraineri.com](https://www.exeraineri.com)
